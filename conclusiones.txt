@@ -1,0 +1,5 @@
+# Conclusiones de la prueba E2E
+
+- El flujo de compra en demoblaze.com se puede automatizar usando Cypress
+- La automatización valida que el proceso de agregar productos, visualizar el carrito y finalizar la compra funciona de manera exitosa
+- Cypress facilita la generación de reportes y la depuración de errores
